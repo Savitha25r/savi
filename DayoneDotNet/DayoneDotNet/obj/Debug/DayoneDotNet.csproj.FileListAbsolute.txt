@@ -1,0 +1,7 @@
+C:\savitha\csharp\DayoneDotNet\DayoneDotNet\bin\Debug\DayoneDotNet.exe.config
+C:\savitha\csharp\DayoneDotNet\DayoneDotNet\bin\Debug\DayoneDotNet.exe
+C:\savitha\csharp\DayoneDotNet\DayoneDotNet\bin\Debug\DayoneDotNet.pdb
+C:\savitha\csharp\DayoneDotNet\DayoneDotNet\obj\Debug\DayoneDotNet.csproj.AssemblyReference.cache
+C:\savitha\csharp\DayoneDotNet\DayoneDotNet\obj\Debug\DayoneDotNet.csproj.CoreCompileInputs.cache
+C:\savitha\csharp\DayoneDotNet\DayoneDotNet\obj\Debug\DayoneDotNet.exe
+C:\savitha\csharp\DayoneDotNet\DayoneDotNet\obj\Debug\DayoneDotNet.pdb
