@@ -1,0 +1,14 @@
+C:\Users\savithar\source\repos\program4avg\program4avg\bin\Debug\netcoreapp3.1\program4avg.exe
+C:\Users\savithar\source\repos\program4avg\program4avg\bin\Debug\netcoreapp3.1\program4avg.deps.json
+C:\Users\savithar\source\repos\program4avg\program4avg\bin\Debug\netcoreapp3.1\program4avg.runtimeconfig.json
+C:\Users\savithar\source\repos\program4avg\program4avg\bin\Debug\netcoreapp3.1\program4avg.runtimeconfig.dev.json
+C:\Users\savithar\source\repos\program4avg\program4avg\bin\Debug\netcoreapp3.1\program4avg.dll
+C:\Users\savithar\source\repos\program4avg\program4avg\bin\Debug\netcoreapp3.1\program4avg.pdb
+C:\Users\savithar\source\repos\program4avg\program4avg\obj\Debug\netcoreapp3.1\program4avg.csproj.AssemblyReference.cache
+C:\Users\savithar\source\repos\program4avg\program4avg\obj\Debug\netcoreapp3.1\program4avg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\savithar\source\repos\program4avg\program4avg\obj\Debug\netcoreapp3.1\program4avg.AssemblyInfoInputs.cache
+C:\Users\savithar\source\repos\program4avg\program4avg\obj\Debug\netcoreapp3.1\program4avg.AssemblyInfo.cs
+C:\Users\savithar\source\repos\program4avg\program4avg\obj\Debug\netcoreapp3.1\program4avg.csproj.CoreCompileInputs.cache
+C:\Users\savithar\source\repos\program4avg\program4avg\obj\Debug\netcoreapp3.1\program4avg.dll
+C:\Users\savithar\source\repos\program4avg\program4avg\obj\Debug\netcoreapp3.1\program4avg.pdb
+C:\Users\savithar\source\repos\program4avg\program4avg\obj\Debug\netcoreapp3.1\program4avg.genruntimeconfig.cache
